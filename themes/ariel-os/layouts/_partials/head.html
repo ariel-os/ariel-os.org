@@ -1,0 +1,26 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,,initial-scale=1">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{ with resources.Get "favicon.ico" }}
+  <link rel="icon" href="{{ .RelPermalink }}" sizes="32x32">
+{{ end }}
+{{ with resources.Get "favicons/favicon.svg" | fingerprint }}
+  <link rel="icon" href="{{ .RelPermalink }}" type="image/svg+xml">
+{{ end }}
+{{ with resources.Get "favicons/apple.png" | fingerprint }}
+  <link rel="apple-touch-icon" href="{{ .RelPermalink }}">
+{{ end }}
+{{ with resources.Get "app.webmanifest" | fingerprint }}
+  <link rel="manifest" href="{{ .RelPermalink }}">
+{{ end }}
+{{ with resources.Get "fonts/FiraSans-Regular.woff2" | fingerprint }}
+  <style>@font-face {font-family:"Fira Sans";font-weight:400;font-style:normal;src:url("{{ .RelPermalink }}") format("woff2");font-display:swap;}</style>
+{{ end }}
+{{ with resources.Get "fonts/FiraSans-Bold.woff2" | fingerprint }}
+  <style>@font-face {font-family:"Fira Sans";font-weight:700;font-style:normal;src:url("{{ .RelPermalink }}") format("woff2");font-display:swap;}</style>
+{{ end }}
+{{ with resources.Get "fonts/FiraSans-Italic.woff2" | fingerprint }}
+  <style>@font-face {font-family:"Fira Sans";font-weight:400;font-style:italic;src:url("{{ .RelPermalink }}") format("woff2");font-display:swap;}</style>
+{{ end }}
+{{ partialCached "head/css.html" . }}
+{{ partialCached "head/js.html" . }}

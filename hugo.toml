@@ -1,0 +1,25 @@
+baseURL = 'https://ariel-os.org/'
+languageCode = 'en-us'
+title = 'Ariel OS'
+theme = 'ariel-os'
+
+[menus]
+  [[menus.main]]
+    name = 'Learn'
+    url = 'https://ariel-os.github.io/ariel-os/dev/docs/book/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'API Reference'
+    url = 'https://ariel-os.github.io/ariel-os/dev/docs/api/'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Blog'
+    pageRef = '/blog'
+    weight = 30
+
+  [[menus.main]]
+    name = 'Repo'
+    url = 'https://github.com/ariel-os/ariel-os'
+    weight = 40
