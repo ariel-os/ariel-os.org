@@ -311,6 +311,22 @@ a.button:focus-visible {
   display: none;
 }
 
+/* code blocks */
+.highlight pre {
+  padding: 0.5em;
+  border-radius: 3px;
+  /* JetBrains Mono typeface is available under the SIL Open Font License 1.1 license and can be used free of charge, for both commercial and non-commercial purposes. */
+  font-family: "Jetbrains Mono", "Courier New", Courier, monospace;
+  line-height: 1.1em;
+  overflow-x: scroll;
+}
+
+code {
+  font-family: "Jetbrains Mono", "Courier New", Courier, monospace;
+  font-size: 0.875em;
+
+}
+
 @media (width >= 48rem) {
   .md-block {
     display: block;
