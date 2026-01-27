@@ -329,6 +329,12 @@ code {
 
 }
 
+article ul {
+  list-style-position: inside;
+  list-style-type: square;
+  line-height: 1.7em;
+}
+
 @media (width >= 48rem) {
   .md-block {
     display: block;
