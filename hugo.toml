@@ -29,3 +29,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 [markup]
   [markup.highlight]
     style = "bw"
+
+[params]
+  title='Ariel OS'
+  description='A library operating system for secure, memory-safe, low-power IoT, built on Rust from the ground up'
+  images = ['favicons/android-512.png']
