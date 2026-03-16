@@ -62,7 +62,7 @@ async fn main(peripherals: pins::Peripherals) {
 
 After a few rounds of design, the new sensor abstraction API is now available for you to try out!
 
-All sensors using this system are can be accessed through a central registry and a universal API.
+All sensors using this system can be accessed through a central registry and a universal API.
 Want to know the current temperature? Just select any sensor in the registry that has the category `Temperature`.
 
 ```rust
