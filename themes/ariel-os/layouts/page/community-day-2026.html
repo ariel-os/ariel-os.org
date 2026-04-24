@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <!-- TODO: deduplicate with the header used elsewhere -->
+  <header class="nav-bar">
+    <div class="max-w-4xl mx-auto">
+      <div class="hidden items-center justify-between md-flex">
+        <div>
+          <a href="/">{{ site.Title }}</a>
+        </div>
+        {{ partial "menu.html" (dict "menuID" "community-day-2026" "page" .) }}
+      </div>
+      <div class="nav-menu md-hidden">
+        <details>
+          <summary class="flex items-center justify-between list-none">
+            <a href="/">{{ site.Title }}</a>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+              <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+            </svg>
+          </summary>
+          {{ partial "menu.html" (dict "menuID" "community-day-2026" "page" .) }}
+        </details>
+      </div>
+    </div>
+  </header>
+  <main>
+    <article class="max-w-3xl mx-auto px-10 py-20">
+      <header>
+        <h1 class="mb-3">{{ .Title }}</h1>
+      </header>
+
+      {{ .Content }}
+    </article>
+  </main>
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
+</body>
+</html>

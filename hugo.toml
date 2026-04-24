@@ -26,6 +26,31 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
     url = 'https://github.com/ariel-os/ariel-os'
     weight = 40
 
+  [[menus.community-day-2026]]
+    name = 'Schedule'
+    url = '/1ad/schedule'
+    weight = 10
+
+  [[menus.community-day-2026]]
+    name = 'Register'
+    url = '/1ad/register'
+    weight = 20
+
+  [[menus.community-day-2026]]
+    name = 'Call for contributions'
+    url = '/1ad/call-for-contributions'
+    weight = 30
+
+  [[menus.community-day-2026]]
+    name = 'Venue'
+    url = '/1ad/venue'
+    weight = 40
+
+  [[menus.community-day-2026]]
+    name = 'About'
+    url = '/1ad'
+    weight = 50
+
 [markup]
   [markup.highlight]
     style = "bw"
