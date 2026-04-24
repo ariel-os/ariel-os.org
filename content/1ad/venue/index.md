@@ -6,4 +6,4 @@ type = 'page'
 title = "Venue — 2026 Community Day"
 +++
 
-Lorem ipsum dolor sit amet.
+1AD will take place in Grenoble, France. The event is co-located with the [RIOT Summit 2026](https://summit.riot-os.org/2026/). For more details on the venue, [head over here](https://summit.riot-os.org/2026/#venue).
