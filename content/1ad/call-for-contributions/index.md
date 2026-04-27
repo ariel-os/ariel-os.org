@@ -25,4 +25,9 @@ We will get in touch soon after your submission. Final notifications will be sen
 If you ponder sponsoring the event, please contact us via email.
 
 ## Contact
-For submissions or questions, contact us via ariel-os@inria.fr and we'll be in touch.
+For submissions or questions, contact us via
+{{< rawhtml >}}
+<span>
+ariel-os@<b class=hidden>wmerbeowr</b>inria.fr</span>
+{{< /rawhtml >}}
+and we'll be in touch.
