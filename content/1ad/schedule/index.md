@@ -8,4 +8,4 @@ title = "Agenda — 2026 Community Day"
 
 Stay tuned!
 
-We'll release a tentative agenda here soon with confirmed speakers. We are currently calling for contributions. Consider your opportunity to [submit a talk/demo proposal](./call-for-contributions)!
+We'll release a tentative agenda here soon with confirmed speakers. We are currently calling for contributions. Consider your opportunity to [submit a talk/demo proposal](../call-for-contributions)!
