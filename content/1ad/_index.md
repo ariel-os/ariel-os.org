@@ -6,6 +6,8 @@ type = 'page'
 title = "The 1st Ariel OS Community Day (1AD)"
 +++
 
+A meetup for embedded software engineers, Rustaceans, Ariel OS maintainers and IoT developers.
+
 ## When?
 September 1, 2026.
 
