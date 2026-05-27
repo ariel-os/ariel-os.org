@@ -331,6 +331,13 @@ article ul {
   line-height: 1.7em;
 }
 
+article figure {
+  font-style: italic;
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+  text-align: center;
+}
+
 @media (width >= 48rem) {
   .md-block {
     display: block;
