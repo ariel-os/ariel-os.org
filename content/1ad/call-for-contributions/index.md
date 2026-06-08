@@ -16,7 +16,7 @@ ariel-os@<b class=hidden>wmerbeowr</b>inria.fr</span>
 
 - the title of your talk/demo
 - a synopsis for your talk/demo (a couple of paragraphs)
-- your name, affiliation, and job title
+- your name, affiliation, and job title if applicable
 - a short biography (one paragraph suffices)
 - your web surface (e.g. your GitHub, Mastodon, Matrix handles etc.)
 ## Submission Deadline
