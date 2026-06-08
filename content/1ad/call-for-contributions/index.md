@@ -8,7 +8,11 @@ title = "Call For Contributions — 2026 Community Day"
 
 
 ## Submissions
-To submit a talk/demo for 1AD, email us with:
+To submit a talk/demo for 1AD, email us at
+{{< rawhtml >}}
+<span>
+ariel-os@<b class=hidden>wmerbeowr</b>inria.fr</span>
+{{< /rawhtml >}} with:
 
 - the title of your talk/demo
 - a synopsis for your talk/demo (a couple of paragraphs)
