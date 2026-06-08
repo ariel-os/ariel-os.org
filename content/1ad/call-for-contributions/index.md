@@ -18,7 +18,7 @@ ariel-os@<b class=hidden>wmerbeowr</b>inria.fr</span>
 - a synopsis for your talk/demo (a couple of paragraphs)
 - your name, affiliation, and job title if applicable
 - a short biography (one paragraph suffices)
-- your web surface (e.g. your GitHub, Mastodon, Matrix handles etc.)
+- any online socials to include (e.g. your GitHub, Mastodon, Matrix handles etc.)
 ## Submission Deadline
 Let us know as soon as possible but no later than August 1, 2026. If the deadline has passed and you still want to present something, send us an email anyway!
 
