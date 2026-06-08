@@ -22,6 +22,33 @@ ariel-os@<b class=hidden>wmerbeowr</b>inria.fr</span>
 ## Submission Deadline
 Let us know as soon as possible but no later than August 1, 2026. If the deadline has passed and you still want to present something, send us an email anyway!
 
+## Submission Template
+
+```
+Submission title: My great talk
+
+## Synopsis
+
+A couple of paragraphs about my talk
+
+## My information
+
+Name: John Doe
+Affiliation: Unknown
+Job title: None
+
+## Biography
+
+A paragraph about myself
+
+## My online social information
+
+- https://github.com/ariel-os/
+- https://floss.social/@ariel/
+- @murdock-ci:matrix.org
+
+```
+
 ## Notification
 We will get in touch soon after your submission. Final notifications will be sent August 8, 2026.
 
