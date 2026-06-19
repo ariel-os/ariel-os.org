@@ -105,7 +105,7 @@ h1 {
   font-weight: bold;
 }
 
-article h2, .legal-page h2 {
+:is(article, .legal-page) h2 {
   font-size: 1.5rem;
   font-weight: bold;
   margin-top: 1.8em;
@@ -316,7 +316,7 @@ a.button:focus-visible {
 }
 
 /* code blocks */
-article .highlight pre {
+:is(article, .legal-page) .highlight pre {
   margin: 2rem 0;
   padding: 1.15rem 1.5rem;
   /* JetBrains Mono typeface is available under the SIL Open Font License 1.1 license and can be used free of charge, for both commercial and non-commercial purposes. */
@@ -333,13 +333,13 @@ code {
 
 }
 
-article ul {
+:is(article, .legal-page) ul {
   list-style-position: inside;
   list-style-type: square;
   line-height: 1.7em;
 }
 
-article figure {
+:is(article, .legal-page) figure {
   font-style: italic;
   margin-top: 2.5em;
   margin-bottom: 2.5em;
