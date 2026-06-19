@@ -87,6 +87,14 @@ a:focus-visible {
   outline: 2px solid var(--dark-color);
 }
 
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
 main {
   background: var(--light-color);
   flex: 1;
