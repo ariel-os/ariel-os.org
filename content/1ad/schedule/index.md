@@ -6,6 +6,6 @@ type = 'page'
 title = "Agenda — 2026 Community Day"
 +++
 
-Stay tuned!
+The initial speaker roster includes [Tiago Manczak](https://www.linkedin.com/in/tiago-manczak/) (Infineon), [Akshai M](https://www.linkedin.com/in/akshaim/) (Analog Devices), [Franziskus Kiefer](https://www.linkedin.com/in/franziskus-kiefer/) (Cryspen / CE Labs) among other talks to be announced from Inria, FU Berlin, and Université Grenoble Alpes.
 
-We'll release a tentative agenda here soon with confirmed speakers. We are currently calling for contributions. Consider your opportunity to [submit a talk/demo proposal](../call-for-contributions)!
+The agenda and more speakers will be announced soon. Stay tuned, and consider yourself the opportunity to [propose a talk/demo](../call-for-contributions)!
