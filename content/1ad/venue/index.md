@@ -6,4 +6,8 @@ type = 'page'
 title = "Venue — 2026 Community Day"
 +++
 
-1AD will take place in Grenoble, France. The event is co-located with the [RIOT Summit 2026](https://summit.riot-os.org/2026/). For more details on the venue, [head over here](https://summit.riot-os.org/2026/#venue).
+1AD is co-located with the [RIOT Summit 2026](https://summit.riot-os.org/2026/).
+
+The venue is **Polytech Grenoble, 14 Place du Conseil National de la Résistance, 38400 Saint-Martin-d'Hères, France**.
+
+For more details on logistics, transportation and other aspects, [head over here](https://summit.riot-os.org/2026/#venue).
