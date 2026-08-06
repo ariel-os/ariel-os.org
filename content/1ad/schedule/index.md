@@ -12,6 +12,7 @@ The below tentative agenda is WIP thus subject to changes, stay tuned! More spea
 
 (Welcome & registration, starting at ~9am)
 
+
 - **Tutorial**: Embedded Rust with Ariel OS.
 
 (Coffee break)
@@ -48,9 +49,11 @@ Session 3
 (Break)
 
 
+
 - **Ariel OS Maintainer Assembly**
 
 (Estimated wrap-up time ~6pm)
+
 
 ---
 ---
