@@ -12,7 +12,7 @@ The below tentative agenda is WIP thus subject to changes, stay tuned! More spea
 
 (Welcome & registration, starting at ~9am)
 
-
+.
 - **Tutorial**: Embedded Rust with Ariel OS.
 
 (Coffee break)
@@ -49,7 +49,7 @@ Session 3
 (Break)
 
 
-
+.
 - **Ariel OS Maintainer Assembly**
 
 (Estimated wrap-up time ~6pm)
@@ -59,7 +59,7 @@ Session 3
 ---
 
 ## BONUS Sept. 1st Evening
-*Informal*: Optionally, we'll go for diner together somewhere TBD around ~7pm. Contact ariel-os@inria.fr if you would like to join.
+We'll go for an informal diner together somewhere TBD around ~7pm. Contact ariel-os@inria.fr if you would like to join.
 
 
 ## BONUS Sept. 2nd
