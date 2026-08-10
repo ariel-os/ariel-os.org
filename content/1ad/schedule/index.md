@@ -43,7 +43,7 @@ Session 2
 
 Session 3
 - **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS -- Christian Amsüss ([@chrysn](https://github.com/chrysn)).
-- TBD -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices).
+- **From C Ops-Tables to Safe Rust Traits**: Interop Patterns for no_std Embedded -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices).
 - ... *more talks to be announced*.
 
 (Break)
