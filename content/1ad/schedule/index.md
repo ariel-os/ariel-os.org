@@ -22,6 +22,7 @@ Session 1
 - **Recap of the year with Ariel OS** -- [Emmanuel Baccelli](https://www.linkedin.com/in/emmanuel-baccelli/) & [Kaspar Schleiser](https://github.com/kaspar030/) (Inria / FU Berlin).
 - **A great RTOS is no longer enough**: On Governance, Regulation, Ecosystem, & AI as Pillars -- [Tiago Manczak](https://www.linkedin.com/in/tiago-manczak/) (Infineon Technologies).
 - **Embedded-CAL**: A Formally Verified Cryptographic Provider for Embedded Platforms -- [Robin Hundt](https://www.linkedin.com/in/robin-hundt-31a31b1b3/) & [William Takeshi Pereira](https://github.com/WilliamTakeshi) (CE labs / Inria).
+- **treVM**: Tiny Rust Embedded Platform for WebAssembly VM Deployments -- [Antoine Lavandier](https://github.com/anlavandier) (Inria).
 - ... *more talks to be announced*.
 
 (Lunch break)
@@ -34,8 +35,9 @@ Session 1
 
 Session 2
 - **The Future Must be Updated**: The Status of Secure OTA Software Updates with Ariel OS -- [Koen Zandberg](https://github.com/bergzand/) (FU Berlin).
--  **What the fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser -- [Marcel Fink](https://github.com/wnmsk) (Hochschule Augsburg).
+-  **What the Fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser -- [Marcel Fink](https://github.com/wnmsk) (Hochschule Augsburg).
 - **no_std Software Updates for Tiny LEO Satellites**: the Case of SUIT for ThingSat -- [Léandre Le Duc](https://github.com/leduclean) (Ensimag).
+- **Rethinking Isolation for Nanosatellites** -- [Alexander Yanovskyy](https://github.com/aaalloc) (LIG), [David Darras](https://github.com/David-Darras) (Polytech Grenoble), [Bala Andegue](https://github.com/BalaAndegue) (Betalab)
 - ... *more talks to be announced*.
 
 (Coffee break)
