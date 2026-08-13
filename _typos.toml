@@ -1,2 +1,3 @@
 [default.extend-words]
 ratatui = "ratatui"
+tre = "tre" # Needed to allow treVM.
