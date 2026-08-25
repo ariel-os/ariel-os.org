@@ -6,7 +6,7 @@ type = 'page'
 title = "Agenda — 2026 Community Day"
 +++
 
-The below agenda pre-final and might be subject to slight changes.
+The below agenda is pre-final and might be subject to slight changes.
 
 ## Sept 1st Morning
 
