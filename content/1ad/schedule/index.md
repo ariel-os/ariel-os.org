@@ -6,7 +6,7 @@ type = 'page'
 title = "Agenda — 2026 Community Day"
 +++
 
-The below agenda is pre-final and might be subject to slight changes.
+The below agenda is pre-final and might be subject to slight changes. All scheduled times indicated below are UTC+2.
 
 ## Sept 1st Morning
 
