@@ -6,55 +6,52 @@ type = 'page'
 title = "Agenda — 2026 Community Day"
 +++
 
-The below tentative agenda is WIP thus subject to changes, stay tuned! More speakers will be announced soon. Consider the opportunity to [propose a talk/demo](../call-for-contributions) yourself.
+The below agenda pre-final and might be subject to slight changes.
 
 ## Sept 1st Morning
 
-(Welcome & registration, starting at ~9am)
-
-.
-- **Tutorial**: Embedded Rust with Ariel OS.
-
-(Coffee break)
+*Welcome & registration, starting at ~8:30am.*
 
 
-Session 1
-- **Recap of the year with Ariel OS** -- [Emmanuel Baccelli](https://www.linkedin.com/in/emmanuel-baccelli/) & [Kaspar Schleiser](https://github.com/kaspar030/) (Inria / FU Berlin).
-- **A great RTOS is no longer enough**: On Governance, Regulation, Ecosystem, & AI as Pillars -- [Tiago Manczak](https://www.linkedin.com/in/tiago-manczak/) (Infineon Technologies).
-- **Embedded-CAL**: A Formally Verified Cryptographic Provider for Embedded Platforms -- [Robin Hundt](https://www.linkedin.com/in/robin-hundt-31a31b1b3/) & [William Takeshi Pereira](https://github.com/WilliamTakeshi) (CE labs / Inria).
-- **treVM**: Tiny Rust Embedded Platform for WebAssembly VM Deployments -- [Antoine Lavandier](https://github.com/anlavandier) (Inria).
-- ... *more talks to be announced*.
+- **Tutorial**: Embedded Rust with Ariel OS (~90min, starting at 9am). MC: [@ROMemories](https://github.com/ROMemories)
 
-(Lunch break)
+(Coffee break at ~10:30am)
+
+
+*Session 1 (starting at ~11am. MC: [Karin Lammers](https://www.linkedin.com/in/karin-lammers/))*
+- **Recap of the year with Ariel OS** (~10mn) -- [Emmanuel Baccelli](https://www.linkedin.com/in/emmanuel-baccelli/) & [Kaspar Schleiser](https://github.com/kaspar030/) (Inria / FU Berlin).
+- **A great RTOS is no longer enough**: On Governance, Regulation, Ecosystem, & AI as Pillars for Ariel OS (~30mn) -- [Tiago Manczak](https://www.linkedin.com/in/tiago-manczak/) (Infineon Technologies).
+- **Embedded-CAL**: A Formally Verified Cryptographic Provider for Embedded Platforms (~30min) -- [Robin Hundt](https://www.linkedin.com/in/robin-hundt-31a31b1b3/) & [William Takeshi Pereira](https://github.com/WilliamTakeshi) (CE labs / Inria).
+
+(Lunch break at ~12:30)
 
 
 ## Sept. 1st Afternoon
 
-(Estimated start ~1:30pm)
 
 
-Session 2
-- **The Future Must be Updated**: The Status of Secure OTA Software Updates with Ariel OS -- [Koen Zandberg](https://github.com/bergzand/) (FU Berlin).
--  **What the Fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser -- [Marcel Fink](https://github.com/wnmsk) (Hochschule Augsburg).
-- **no_std Software Updates for Tiny LEO Satellites**: the Case of SUIT for ThingSat -- [Léandre Le Duc](https://github.com/leduclean) (Ensimag).
-- **Rethinking Isolation for Nanosatellites** -- [Alexander Yanovskyy](https://github.com/aaalloc) (LIG), [David Darras](https://github.com/David-Darras) (Polytech Grenoble), [Bala Andegue](https://github.com/BalaAndegue) (Betalab)
-- ... *more talks to be announced*.
-
-(Coffee break)
+*Session 2 (starting at ~1:30pm. MC: Emmanuel Baccelli)*
+- **The Future Must be Updated**: The Status of Secure OTA Software Updates with Ariel OS (~25min) -- [Koen Zandberg](https://github.com/bergzand/) (FU Berlin).
+-  **What the Fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser (~25min) -- [Marcel Fink](https://github.com/wnmsk) (Hochschule Augsburg).
+- **Rethinking Isolation for Nanosatellites** (~25min) -- [Alexander Yanovskyy](https://github.com/aaalloc) (LIG), [David Darras](https://github.com/David-Darras) (Polytech Grenoble), [Bala Andegue](https://github.com/BalaAndegue) (Betalab)
 
 
-Session 3
-- **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS -- Christian Amsüss ([@chrysn](https://github.com/chrysn)).
-- **From C Ops-Tables to Safe Rust Traits**: Interop Patterns for no_std Embedded -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices).
-- ... *more talks to be announced*.
-
-(Break)
+(Coffee break at ~2:45pm)
 
 
-.
-- **Ariel OS Maintainer Assembly**
+*Session 3 (starting at ~3:15pm. MC: Kaspar Schleiser)*
+- **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS (~25min) -- Christian Amsüss ([@chrysn](https://codeberg.org/chrysn)).
+- **From C Ops-Tables to Safe Rust Traits**: Interop Patterns for no_std Embedded (~25min) -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices).
+- **treVM**: Tiny Rust Embedded Platform for WebAssembly VM Deployments (~25min) -- [Antoine Lavandier](https://github.com/anlavandier) (Inria).
+- Ad hoc planning of session 4
 
-(Estimated wrap-up time ~6pm)
+(Break at ~4:30pm)
+
+
+*Session 4 (starting at ~4:45pm. MC: @chrysn)*
+- **1AD Unconf**, ad hoc side-meetings (~1h)
+- Summary of side meetings output & CHAOS outlook (~15min)
+- Wrap-up at ~6pm
 
 
 ---
