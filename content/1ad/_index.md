@@ -19,4 +19,4 @@ Grenoble, France.
 People interested in the IoT in general and decision makers who are considering deploying embedded Rust firmware/software in the near future are also very welcome!
 1AD aims not only to inform about latest embedded Rust and Ariel OS developments but also to help gather feedback from the community so as to better shape the future of Ariel OS.
 
-The event welcomes plenary talks, hands-on tutorials, and break-out sessions. We are currently calling for contributions. Go ahead and [propose a talk or a demo/tutorial](./call-for-contributions) for 1AD!
+The event features plenary talks, hands-on tutorials, and break-out sessions. Check the [agenda](./schedule)! Questions? Contact ariel-os@inria.fr
