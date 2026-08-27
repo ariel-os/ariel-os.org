@@ -33,7 +33,7 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 *Session 2 (starting at ~1:30pm. MC: Emmanuel Baccelli)*
 - **The Future Must be Updated**: The Status of Secure OTA Software Updates with Ariel OS (~25min) -- [Koen Zandberg](https://github.com/bergzand/) (FU Berlin).
 - **What the Fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser (~25min) -- [Marcel Fink](https://github.com/wnmsk) (Hochschule Augsburg).
-- **Function-driven Multi-platform Architecture** (~15min) -- [Luuk Oudshoorn](https://www.linkedin.com/in/luuk-oudshoorn-32b47726/) (Nedap Healthcare).
+- **Function-driven Multi-platform Architecture** (~15min) -- [Luuk Oudshoorn](https://www.linkedin.com/in/luuk-oudshoorn-32b47726/) (Nedap).
 - **Rethinking Isolation for Nanosatellites** (~25min) -- [Alexander Yanovskyy](https://github.com/aaalloc) (LIG), [David Darras](https://github.com/David-Darras) (Polytech Grenoble), [Bala Andegue](https://github.com/BalaAndegue) (Betalab).
 
 
