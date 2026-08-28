@@ -11,8 +11,8 @@ title = "Supporters"
 
 ![Inria logo](logos/Inria_logo.png) ![Infineon logo](logos/Infineon_logo.png)
 
-![UGA logo](logos/UGA_logo.png) ![FUB logo](logos/FUB_logo.png)
+![UGA logo](logos/UGA_logo.png) ![FUB logo](logos/Schneider_logo.png)
 
-![FUB logo](logos/Schneider_logo.png) ![FUB logo](logos/RTONE_logo.png)
+![FUB logo](logos/DM91_logo.png) ![FUB logo](logos/Smile_logo.png)
 
-![FUB logo](logos/Smile_logo.png) ![FUB logo](logos/DM91_logo.png)
+![FUB logo](logos/RTONE_logo.png) ![FUB logo](logos/FUB_logo.png)
