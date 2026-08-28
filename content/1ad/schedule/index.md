@@ -55,13 +55,16 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 - Wrap-up at ~6:15pm
 
 
+*Cocktail (starting ~6:30pm. On-site at Polytech Grenoble. MC: [Didier Donsez](https://www.linkedin.com/in/didierdonsez/))*
+- Enjoy Cheeses & Wines! Cheeses are provided by renowned [Fromagerie Les Alpages](https://les-alpages.fr/), awarded [MOF](https://en.wikipedia.org/wiki/Meilleur_Ouvrier_de_France) in 2007, basically «*meilleur fromager du monde*»!
+
+*Diner (informal/optional)*
+- For those interested, we'll go together somewhere TBD after the cocktail. Contact ariel-os@inria.fr if you would like to join.
+
+
 ---
 ---
-
-## BONUS Sept. 1st Evening
-We'll go for an informal diner together somewhere TBD around ~7:30pm. Contact ariel-os@inria.fr if you would like to join.
-
 
 ## BONUS Sept. 2nd
-- In the morning -- **CHAOS: Collaborative Hacking with Ariel OS**. Browse and/or propose hackathon topics in the dedicated [pad](https://notes.inria.fr/2ppogr2fTSKusRog3RXbPQ). Estimated start ~9:30am.
-- In the afternoon -- **RIOT Summit**: more info available online over [here](https://summit.riot-os.org/2026/).
+- *In the morning:* you can participate to **CHAOS: Collaborative Hacking with Ariel OS**. Browse and/or propose hackathon topics in the dedicated [pad](https://notes.inria.fr/2ppogr2fTSKusRog3RXbPQ). Estimated start ~9:30am.
+- *In the afternoon:* you have the opportunity to carry on with the **RIOT Summit**: more info available online over [here](https://summit.riot-os.org/2026/).
