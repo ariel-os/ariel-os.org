@@ -9,8 +9,10 @@ title = "Supporters"
 
 ## We proudly support Ariel OS and 1AD. Join us!
 
-![Inria logo](logos/Inria_logo.png)
+![Inria logo](logos/Inria_logo.png "{height='100'}")
 
-![Infineon logo](logos/Infineon_logo.png)
+![Infineon logo](logos/Infineon_logo.png "{height='100'}")
 
-![FUB logo](logos/FUB_logo.png)
+![UGA logo](logos/UGA_logo.png "{height='100'}")
+
+![FUB logo](logos/FUB_logo.png "{height='100'}")
