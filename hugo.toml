@@ -42,8 +42,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
     weight = 20
 
   [[menus.community-day-2026]]
-    name = 'Call for contributions'
-    url = '/1ad/call-for-contributions'
+    name = 'Supporters'
+    url = '/1ad/supporters'
     weight = 30
 
   [[menus.community-day-2026]]
