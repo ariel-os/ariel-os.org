@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
     weight = 40
 
   [[menus.community-day-2026]]
-    name = 'Schedule'
+    name = 'Agenda'
     url = '/1ad/schedule'
     weight = 10
 
