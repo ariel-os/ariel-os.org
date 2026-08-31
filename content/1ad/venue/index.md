@@ -8,7 +8,8 @@ title = "Venue — 2026 Community Day"
 
 1AD is co-located with the [RIOT Summit 2026](https://summit.riot-os.org/2026/).
 
-The venue is **Polytech Grenoble, 14 Place du Conseil National de la Résistance, 38400 Saint-Martin-d'Hères, France**.
+The venue is **Polytech Grenoble, 14 Place du Conseil National de la Résistance, 38400 Saint-Martin-d'Hères, France**,
+first floor, room 1.46.
 
 [![Map of the surroundings: Enter at 14 Place du Conseil National de Résistance, left inside the building, up one floor, and to the Western end of the building](map.svg.png)](https://osm.org/go/0CASLzrDw--?node=4711325427)
 
