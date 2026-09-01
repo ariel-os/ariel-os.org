@@ -41,7 +41,7 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 
 
 *Session 3 (starting at ~3:30pm. MC: Kaspar Schleiser)*
-- **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS (~25min) -- Christian Amsüss ([@chrysn](https://codeberg.org/chrysn)).
+- **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS (~25min) -- Christian Amsüss ([@chrysn](https://codeberg.org/chrysn)). [slides](../slides/4-1-hophop.pdf).
 - **From C Ops-Tables to Safe Rust Traits**: Interop Patterns for no_std Embedded (~25min) -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices).
 - **treVM**: Tiny Rust Embedded Platform for WebAssembly VM Deployments with Ariel OS (~25min) -- [Antoine Lavandier](https://github.com/anlavandier) (Inria).
 - Ad hoc planning of Session 4
