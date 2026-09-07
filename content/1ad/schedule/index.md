@@ -13,15 +13,15 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 *Welcome & registration, starting at ~8:30am.*
 
 
-- **Tutorial**: Embedded Rust with Ariel OS (starting at ~9am). MC: [@ROMemories](https://github.com/ROMemories). [[SLIDES](../slides/1AD-1-1-tutorial)]
+- **Tutorial**: Embedded Rust with Ariel OS (starting at ~9am). MC: [@ROMemories](https://github.com/ROMemories). [[SLIDES](../slides/1AD-1-1-tutorial.pdf)]
 
 (Coffee break at ~10:30am)
 
 
 *Session 1 (starting at ~11am. MC: [Karin Lammers](https://www.linkedin.com/in/karin-lammers/))*
-- **Recap of the year with Ariel OS** -- [Emmanuel Baccelli](https://www.linkedin.com/in/emmanuel-baccelli/) & [Kaspar Schleiser](https://github.com/kaspar030/) (Inria / FU Berlin). [[SLIDES](../slides/1AD-2-1-Recap)]
-- **A great RTOS is no longer enough**: On Governance, Regulation, Ecosystem, & AI as Pillars for Ariel OS -- [Tiago Manczak](https://www.linkedin.com/in/tiago-manczak/) (Infineon Technologies). [[SLIDES](../slides/1AD-2-2-Infineon)]
-- **Embedded-CAL**: A Formally Verified Cryptographic Provider for Embedded Platforms -- [Robin Hundt](https://www.linkedin.com/in/robin-hundt-31a31b1b3/) & [William Takeshi Pereira](https://github.com/WilliamTakeshi) (CE Labs). [[SLIDES](../slides/1AD-2-3-embedded-cal)]
+- **Recap of the year with Ariel OS** -- [Emmanuel Baccelli](https://www.linkedin.com/in/emmanuel-baccelli/) & [Kaspar Schleiser](https://github.com/kaspar030/) (Inria / FU Berlin). [[SLIDES](../slides/1AD-2-1-Recap.pdf)]
+- **A great RTOS is no longer enough**: On Governance, Regulation, Ecosystem, & AI as Pillars for Ariel OS -- [Tiago Manczak](https://www.linkedin.com/in/tiago-manczak/) (Infineon Technologies). [[SLIDES](../slides/1AD-2-2-Infineon.pdf)]
+- **Embedded-CAL**: A Formally Verified Cryptographic Provider for Embedded Platforms -- [Robin Hundt](https://www.linkedin.com/in/robin-hundt-31a31b1b3/) & [William Takeshi Pereira](https://github.com/WilliamTakeshi) (CE Labs). [[SLIDES](../slides/1AD-2-3-embedded-cal.pdf)]
 
 (Lunch break at ~12:30)
 
@@ -31,10 +31,10 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 
 
 *Session 2 (starting at ~1:30pm. MC: Emmanuel Baccelli)*
-- **The Future Must be Updated**: The Status of Secure OTA Software Updates with Ariel OS -- [Koen Zandberg](https://github.com/bergzand/) (FU Berlin). [[SLIDES](../slides/1AD-3-1-SUIT)]
+- **The Future Must be Updated**: The Status of Secure OTA Software Updates with Ariel OS -- [Koen Zandberg](https://github.com/bergzand/) (FU Berlin). [[SLIDES](../slides/1AD-3-1-SUIT.pdf)]
 - **Function-driven Multi-platform Architecture** -- [Luuk Oudshoorn](https://www.linkedin.com/in/luuk-oudshoorn-32b47726/) (Nedap).
-- **Rethinking Isolation for Nanosatellites** -- [Alexander Yanovskyy](https://github.com/aaalloc) (LIG), [David Darras](https://github.com/David-Darras) (Polytech Grenoble), [Bala Andegue](https://github.com/BalaAndegue) (Betalab). [[SLIDES](../slides/1AD-3-3-xOS)]
-- **What the Fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser -- [Marcel Fink](https://github.com/wnmsk) (Infineon / Hochschule Augsburg). [[SLIDES](../slides/1AD-3-4-fuzzing)]
+- **Rethinking Isolation for Nanosatellites** -- [Alexander Yanovskyy](https://github.com/aaalloc) (LIG), [David Darras](https://github.com/David-Darras) (Polytech Grenoble), [Bala Andegue](https://github.com/BalaAndegue) (Betalab). [[SLIDES](../slides/1AD-3-3-xOS.pdf)]
+- **What the Fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser -- [Marcel Fink](https://github.com/wnmsk) (Infineon / Hochschule Augsburg). [[SLIDES](../slides/1AD-3-4-fuzzing.pdf)]
 
 
 (Coffee break at ~3:00pm)
