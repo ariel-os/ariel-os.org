@@ -13,7 +13,7 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 *Welcome & registration, starting at ~8:30am.*
 
 
-- **Tutorial**: Embedded Rust with Ariel OS (starting at ~9am). MC: [@ROMemories](https://github.com/ROMemories). [[SLIDES](../slides/1AD-1-1-tutorial.pdf)]
+- **Tutorial**: Embedded Rust with Ariel OS. MC: [@ROMemories](https://github.com/ROMemories). [[SLIDES](../slides/1AD-1-1-tutorial.pdf)]
 
 (Coffee break at ~10:30am)
 
@@ -41,9 +41,9 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 
 
 *Session 3 (starting at ~3:30pm. MC: Kaspar Schleiser)*
-- **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS (~25min) -- Christian Amsüss ([@chrysn](https://codeberg.org/chrysn)). [[SLIDES](../slides/1AD-4-1-hophop.pdf)]
-- **From C Ops-Tables to Safe Rust Traits**: Interop Patterns for no_std Embedded (~25min) -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices). [[SLIDES](../slides/1AD-4-2-From-C-to-Rust.pdf)]
-- **treVM**: Tiny Rust Embedded Platform for WebAssembly VM Deployments with Ariel OS (~25min) -- [Antoine Lavandier](https://github.com/anlavandier) (Inria). [[SLIDES](../slides/1AD-4-3-treVM.pdf)]
+- **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS -- Christian Amsüss ([@chrysn](https://codeberg.org/chrysn)). [[SLIDES](../slides/1AD-4-1-hophop.pdf)]
+- **From C Ops-Tables to Safe Rust Traits**: Interop Patterns for no_std Embedded -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices). [[SLIDES](../slides/1AD-4-2-From-C-to-Rust.pdf)]
+- **treVM**: Tiny Rust Embedded Platform for WebAssembly VM Deployments with Ariel OS -- [Antoine Lavandier](https://github.com/anlavandier) (Inria). [[SLIDES](../slides/1AD-4-3-treVM.pdf)]
 - Ad hoc planning of Session 4
 
 (Break at ~4:45pm)
