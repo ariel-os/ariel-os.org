@@ -47,9 +47,14 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
     weight = 30
 
   [[menus.community-day-2026]]
+    name = 'Videos'
+    url = 'https://www.youtube.com/watch?v=rxxesgd4jzI&list=PLTlqQAKXZec8'
+    weight = 40
+
+  [[menus.community-day-2026]]
     name = 'About'
     url = '/1ad'
-    weight = 40
+    weight = 50
 
 [markup]
   [markup.highlight]
