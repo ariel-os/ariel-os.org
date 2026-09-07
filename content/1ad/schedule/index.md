@@ -19,9 +19,9 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 
 
 *Session 1 (starting at ~11am. MC: [Karin Lammers](https://www.linkedin.com/in/karin-lammers/))*
-- **Recap of the year with Ariel OS** -- [Emmanuel Baccelli](https://www.linkedin.com/in/emmanuel-baccelli/) & [Kaspar Schleiser](https://github.com/kaspar030/) (Inria / FU Berlin). [[SLIDES](../slides/1AD-2-1-Recap.pdf)]
-- **A great RTOS is no longer enough**: On Governance, Regulation, Ecosystem, & AI as Pillars for Ariel OS -- [Tiago Manczak](https://www.linkedin.com/in/tiago-manczak/) (Infineon Technologies). [[SLIDES](../slides/1AD-2-2-Infineon.pdf)]
-- **Embedded-CAL**: A Formally Verified Cryptographic Provider for Embedded Platforms -- [Robin Hundt](https://www.linkedin.com/in/robin-hundt-31a31b1b3/) & [William Takeshi Pereira](https://github.com/WilliamTakeshi) (CE Labs). [[SLIDES](../slides/1AD-2-3-embedded-cal.pdf)]
+- **Recap of the year with Ariel OS** -- [Emmanuel Baccelli](https://www.linkedin.com/in/emmanuel-baccelli/) & [Kaspar Schleiser](https://github.com/kaspar030/) (Inria / FU Berlin). [[SLIDES](../slides/1AD-2-1-Recap.pdf)] [[VIDEO](https://www.youtube.com/watch?v=rxxesgd4jzI&list=PLTlqQAKXZec8)]
+- **A great RTOS is no longer enough**: On Governance, Regulation, Ecosystem, & AI as Pillars for Ariel OS -- [Tiago Manczak](https://www.linkedin.com/in/tiago-manczak/) (Infineon Technologies). [[SLIDES](../slides/1AD-2-2-Infineon.pdf)] [[VIDEO](https://www.youtube.com/watch?v=wdtpqpLtaYY&list=PLTlqQAKXZec8&index=2)]
+- **Embedded-CAL**: A Formally Verified Cryptographic Provider for Embedded Platforms -- [Robin Hundt](https://www.linkedin.com/in/robin-hundt-31a31b1b3/) & [William Takeshi Pereira](https://github.com/WilliamTakeshi) (CE Labs). [[SLIDES](../slides/1AD-2-3-embedded-cal.pdf)] [[VIDEO](https://www.youtube.com/watch?v=0GbAMW53RMQ&list=PLTlqQAKXZec8&index=3)]
 
 (Lunch break at ~12:30)
 
@@ -31,19 +31,19 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 
 
 *Session 2 (starting at ~1:30pm. MC: Emmanuel Baccelli)*
-- **The Future Must be Updated**: The Status of Secure OTA Software Updates with Ariel OS -- [Koen Zandberg](https://github.com/bergzand/) (FU Berlin). [[SLIDES](../slides/1AD-3-1-SUIT.pdf)]
-- **Function-driven Multi-platform Architecture** -- [Luuk Oudshoorn](https://www.linkedin.com/in/luuk-oudshoorn-32b47726/) (Nedap).
-- **Rethinking Isolation for Nanosatellites** -- [Alexander Yanovskyy](https://github.com/aaalloc) (LIG), [David Darras](https://github.com/David-Darras) (Polytech Grenoble), [Bala Andegue](https://github.com/BalaAndegue) (Betalab). [[SLIDES](../slides/1AD-3-3-xOS.pdf)]
-- **What the Fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser -- [Marcel Fink](https://github.com/wnmsk) (Infineon / Hochschule Augsburg). [[SLIDES](../slides/1AD-3-4-fuzzing.pdf)]
+- **The Future Must be Updated**: The Status of Secure OTA Software Updates with Ariel OS -- [Koen Zandberg](https://github.com/bergzand/) (FU Berlin). [[SLIDES](../slides/1AD-3-1-SUIT.pdf)] [[VIDEO](https://www.youtube.com/watch?v=uQWH8dgwokI&list=PLTlqQAKXZec8&index=4)]
+- **Function-driven Multi-platform Architecture** -- [Luuk Oudshoorn](https://www.linkedin.com/in/luuk-oudshoorn-32b47726/) (Nedap). [[VIDEO](https://www.youtube.com/watch?v=RwJ2a2IFvLg&list=PLTlqQAKXZec8&index=5)]
+- **Rethinking Isolation for Nanosatellites** -- [Alexander Yanovskyy](https://github.com/aaalloc) (LIG), [David Darras](https://github.com/David-Darras) (Polytech Grenoble), [Bala Andegue](https://github.com/BalaAndegue) (Betalab). [[SLIDES](../slides/1AD-3-3-xOS.pdf)] [[VIDEO](https://www.youtube.com/watch?v=4rI0juYotyE&list=PLTlqQAKXZec8&index=6)]
+- **What the Fuzz!?** A Journey into Structure-aware Fuzzing on a Rust SUIT-Manifest Parser -- [Marcel Fink](https://github.com/wnmsk) (Infineon / Hochschule Augsburg). [[SLIDES](../slides/1AD-3-4-fuzzing.pdf)] [[VIDEO](https://www.youtube.com/watch?v=ysfi98ZMsJM&list=PLTlqQAKXZec8&index=7)]
 
 
 (Coffee break at ~3:00pm)
 
 
 *Session 3 (starting at ~3:30pm. MC: Kaspar Schleiser)*
-- **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS -- Christian Amsüss ([@chrysn](https://codeberg.org/chrysn)). [[SLIDES](../slides/1AD-4-1-hophop.pdf)]
-- **From C Ops-Tables to Safe Rust Traits**: Interop Patterns for no_std Embedded -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices). [[SLIDES](../slides/1AD-4-2-From-C-to-Rust.pdf)]
-- **treVM**: Tiny Rust Embedded Platform for WebAssembly VM Deployments with Ariel OS -- [Antoine Lavandier](https://github.com/anlavandier) (Inria). [[SLIDES](../slides/1AD-4-3-treVM.pdf)]
+- **hophop**: Towards DECT-2020 NR+ support in Rust with Ariel OS -- Christian Amsüss ([@chrysn](https://codeberg.org/chrysn)). [[SLIDES](../slides/1AD-4-1-hophop.pdf)] [[VIDEO](https://www.youtube.com/watch?v=gwmNa_CD968&list=PLTlqQAKXZec8&index=8)]
+- **From C Ops-Tables to Safe Rust Traits**: Interop Patterns for no_std Embedded -- [Akshai M](https://www.linkedin.com/in/akshaim) (Analog Devices). [[SLIDES](../slides/1AD-4-2-From-C-to-Rust.pdf)] [[VIDEO](https://www.youtube.com/watch?v=X687qiy4-EY&list=PLTlqQAKXZec8&index=9)]
+- **treVM**: Tiny Rust Embedded Platform for WebAssembly VM Deployments with Ariel OS -- [Antoine Lavandier](https://github.com/anlavandier) (Inria). [[SLIDES](../slides/1AD-4-3-treVM.pdf)] [[VIDEO](https://www.youtube.com/watch?v=abCbNBglLRw&list=PLTlqQAKXZec8&index=10)]
 - Ad hoc planning of Session 4
 
 (Break at ~4:45pm)
