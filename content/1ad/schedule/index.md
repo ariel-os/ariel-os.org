@@ -6,7 +6,9 @@ type = 'page'
 title = "Agenda — 2026 Community Day"
 +++
 
-The below agenda is pre-final and might be subject to slight changes. All scheduled times indicated below are UTC+2.
+All scheduled times indicated below are UTC+2.
+
+---
 
 ## Sept 1st Morning
 
@@ -25,6 +27,8 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 
 (Lunch break at ~12:30)
 
+
+---
 
 ## Sept. 1st Afternoon
 
@@ -59,12 +63,20 @@ The below agenda is pre-final and might be subject to slight changes. All schedu
 - Enjoy Cheeses & Wines! Cheeses are provided by renowned [Fromagerie Les Alpages](https://les-alpages.fr/), awarded [MOF](https://en.wikipedia.org/wiki/Meilleur_Ouvrier_de_France) in 2007, basically «*meilleur fromager du monde*»!
 
 *Diner (informal/optional)*
-- For those interested, we'll go together somewhere TBD after the cocktail. Contact ariel-os@inria.fr if you would like to join.
+- Contact ariel-os@inria.fr if you would like to join.
 
 
 ---
+
+## Sept. 2nd Morning
+*Welcome starting at ~8:30am.*
+
+- Starting at ~9:00am, you can join the **CHAOS** (Collaborative Hacking with Ariel OS). Browse and/or propose hackathon topics in the dedicated [pad](https://notes.inria.fr/2ppogr2fTSKusRog3RXbPQ). 
+
+*(Lunch break at ~12:00pm)*
+
 ---
 
-## Sept. 2nd
-- *In the morning:* you can participate to **CHAOS: Collaborative Hacking with Ariel OS**. Browse and/or propose hackathon topics in the dedicated [pad](https://notes.inria.fr/2ppogr2fTSKusRog3RXbPQ). Estimated start ~9:30am.
-- *In the afternoon:* you have the opportunity to carry on with the **RIOT Summit**: more info available online over [here](https://summit.riot-os.org/2026/).
+## Sept. 2nd Afternoon
+
+- Starting at ~1:30pm, you can carry on with the **RIOT Summit**. More info available online over [here](https://summit.riot-os.org/2026/).
