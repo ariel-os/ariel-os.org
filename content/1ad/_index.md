@@ -9,7 +9,7 @@ title = "The 1st Ariel OS Community Day (1AD)"
 A meetup for embedded software engineers, Rustaceans, [Ariel OS](https://ariel-os.org/) maintainers and IoT developers.
 
 ## When?
-September 1, 2026.
+September 1-2, 2026.
 
 ## Where?
 [Grenoble, France.](./venue/)
@@ -19,4 +19,4 @@ September 1, 2026.
 People interested in the IoT in general and decision makers who are considering deploying embedded Rust firmware/software in the near future are also very welcome!
 1AD aims not only to inform about latest embedded Rust and Ariel OS developments but also to help gather feedback from the community so as to better shape the future of Ariel OS.
 
-The event features plenary talks, hands-on tutorials, and break-out sessions. Check the [agenda](./schedule/)! Questions? Contact ariel-os@inria.fr or join the [1AD matrix chat room](https://matrix.to/#/#1AD:utwente.io).
+The event features plenary talks, tutorials, a hackathon, and ad hoc break-out sessions. Check the [agenda](./schedule/)! Questions? Contact ariel-os@inria.fr 
