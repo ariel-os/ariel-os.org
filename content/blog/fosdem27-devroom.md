@@ -1,14 +1,14 @@
 +++
 date = '2026-11-11T10:42:43+02:00'
-title = 'FOSDEM 2027 DevRoom: Embedded & Resource-Constrained OS'
+title = 'FOSDEM DevRoom: Embedded & Resource-Constrained OS'
 # tags = ["Venue"]
 +++
 
-We are co-organizing the Embedded & Resource-Constrained OS devroom at FOSDEM, a dedicated space for developers, maintainers, researchers, and users of these operating systems Ariel OS, Zephyr, RIOT, Apache NuttX, Tock, Embassy, RTEMS, ThreadX, and many more to discuss how we build, test, secure, and maintain them, and how we can share more across projects.
+We are co-organizing the Embedded & Resource-Constrained OS devroom at FOSDEM 2027, a dedicated space for developers, maintainers, researchers, and users of these operating systems Ariel OS, Zephyr, RIOT, Apache NuttX, Tock, Embassy, RTEMS, ThreadX, and many more to discuss how we build, test, secure, and maintain them, and how we can share more across projects.
 
-We welcome talk proposals until Monday, November 23, 2026, at 23:59 UTC. See details below. Submit your proposal via pretalx at fosdem.org/submit. 
+We welcome talk proposals until Monday, November 23, 2026, at 23:59 UTC. See details below. Submit your proposal via pretalx at fosdem.org/submit .
 
-**DevRoom Infos**
+## DevRoom Infos
 
 - Devroom Date: Sunday, January 31, 2027,
 - Session Timings: 09:00–12:45
@@ -16,7 +16,7 @@ We welcome talk proposals until Monday, November 23, 2026, at 23:59 UTC. See det
   - Université libre de Bruxelles, Campus du Solbosch.
   - Avenue Franklin D. Roosevelt 50, 1050 Bruxelles, Belgium.
 
-**Topics of Interest**
+## Topics of Interest
 
 Topics of interest include, but are not limited to:
 
@@ -34,7 +34,7 @@ Talks, technical deep dives, demos, and work in progress are all welcome. Talks 
 
 The morning will tentatively end with a roundtable on how our communities can work together.
 
-**ession Formats**
+## Session Formats
 
 We expect to schedule around 5 talks and 4 lightning talks, followed by the roundtable.
 
@@ -45,7 +45,7 @@ The pretalx form only offers 25 or 50 minutes. Select 25 minutes for both format
 
 We may shorten some talks to fit the schedule and will tell you when your talk is accepted. First-time speakers are very welcome; reach out if you would like help shaping a proposal!
 
-**Proposal Submission**
+## Proposal Submission
 
 Submit your proposal via pretalx at fosdem.org/submit. Create a new account if needed. Please provide the following:
 
@@ -58,14 +58,14 @@ Submit your proposal via pretalx at fosdem.org/submit. Create a new account if n
 
 Talks are given in person in Brussels. All talks are live-streamed and recorded, and the recordings are published under CC-BY.
 
-**Important Dates**
+## Important Dates
 
 - Submission deadline: Monday, November 23, 2026, at 23:59 UTC
 - Notification: Tuesday, December 1, 2026
 - Schedule published: Monday, December 7, 2026
 - Devroom: Sunday, January 31, 2027, 09:00–12:45
 
-**Organising Committee**
+## Organising Committee
 
 - Emmanuel Baccelli — Ariel OS
 - Benjamin Cabé — Zephyr
@@ -74,6 +74,6 @@ Talks are given in person in Brussels. All talks are live-streamed and recorded,
 - Orson Pessin — Tock
 - Susan Remmert — Linux Foundation
 
-**Contact**
+## Contact
 
 embedded-resource-constrained-os-devroom-manager@fosdem.org
