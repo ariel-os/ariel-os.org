@@ -6,7 +6,7 @@ title = 'FOSDEM DevRoom: Embedded & Resource-Constrained OS'
 
 We are co-organizing the Embedded & Resource-Constrained OS devroom at FOSDEM 2027, a dedicated space for developers, maintainers, researchers, and users of these operating systems Ariel OS, Zephyr, RIOT, Apache NuttX, Tock, Embassy, RTEMS, ThreadX, and many more to discuss how we build, test, secure, and maintain them, and how we can share more across projects.
 
-We welcome talk proposals until Monday, November 23, 2026, at 23:59 UTC. See details below. Submit your proposal via pretalx at fosdem.org/submit .
+We welcome talk proposals until Monday, November 23, 2026, at 23:59 UTC. Submit your proposal via pretalx at fosdem.org/submit and see all the details below.
 
 ## DevRoom Infos
 
@@ -38,8 +38,8 @@ The morning will tentatively end with a roundtable on how our communities can wo
 
 We expect to schedule around 5 talks and 4 lightning talks, followed by the roundtable.
 
-    Talk: Up to 25 minutes, including Q&A
-    Lightning talk: 10 minutes, great for a quick demo, a work-in-progress update, or perhaps your first FOSDEM talk
+- Talk: Up to 25 minutes, including Q&A
+- Lightning talk: 10 minutes, great for a quick demo, a work-in-progress update, or perhaps your first FOSDEM talk
 
 The pretalx form only offers 25 or 50 minutes. Select 25 minutes for both formats. For a lightning talk, write “Lightning talk (10 min)” at the top of the Submission Notes. Please do not select 50 minutes.
 
