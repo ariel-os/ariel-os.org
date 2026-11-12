@@ -4,7 +4,7 @@ title = 'FOSDEM DevRoom: Embedded & Resource-Constrained OS'
 # tags = ["Venue"]
 +++
 
-We are co-organizing the Embedded & Resource-Constrained OS devroom at FOSDEM 2027, a dedicated space for developers, maintainers, researchers, and users of these operating systems Ariel OS, Zephyr, RIOT, Apache NuttX, Tock, Embassy, RTEMS, ThreadX, and many more to discuss how we build, test, secure, and maintain them, and how we can share more across projects.
+We are co-organizing the Embedded & Resource-Constrained OS devroom at FOSDEM 2027, a dedicated space for developers, maintainers, researchers, and users of these operating systems such as Ariel OS, Zephyr, RIOT, Apache NuttX, Tock, Embassy, RTEMS, ThreadX (and many more) to discuss how we build, test, secure, and maintain them, and how we can share more across projects.
 
 We welcome talk proposals until Monday, November 23, 2026, at 23:59 UTC. Submit your proposal via pretalx at fosdem.org/submit and see all the details below.
 
